@@ -10,6 +10,6 @@ Grid
  <br>
  CLICK IT
  <br>
- <img contains src="/screen shorts/document.pdf" type="/type/pdf" width="50%" height="50%>
+ <img contains src="/screen shorts/document.pdf" type="type/pdf" width="50%" height="50%">
 
 
