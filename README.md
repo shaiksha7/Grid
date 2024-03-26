@@ -8,11 +8,8 @@ Grid
  <br>
  Responsive View
  <br>
- <object data="/screen shorts/document.pdf" type="application/pdf"></object>
-<embed type="document/pdf" src="/screen shorts/document.pdf" width="70%" height="70%">
-</embed>
-<iframe type="document/pdf" src="/screen shorts/document.pdf" width="70%" height="70%"></iframe>
-<img contains src="/screen shorts/document.pdf" width="70%" height="70% >
-<br>
-[text](document.pdf)
+ CLICK IT
+ <br>
+ <img contains src="/screen shorts/document.pdf" type="/type/pdf" width="50%" height="50%>
+
 
