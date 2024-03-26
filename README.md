@@ -7,4 +7,4 @@ Grid
  <img src="/screen shorts/Screenshot 2024-03-26 161438.png">
  <br>
  Responsive view
- <iframe contains src="/screen shorts/Screenshot 2024-03-26 155459.pdf" type="type/pdf" width="50%" height="50%"></iframe>
+ <iframe  src="/screen shorts/Screenshot 2024-03-26 155459.pdf" type="type/pdf" width="50%" height="50%"></iframe>
